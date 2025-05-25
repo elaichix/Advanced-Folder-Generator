@@ -1,0 +1,2 @@
+# requirements.txt
+# No dependencies needed (uses Python built-in modules)
